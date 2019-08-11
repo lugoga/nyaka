@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Grace Semba</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on Grace Semba</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 11 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>With Friends: Outing for our brother Kelvin</title>
+      <link>/post/with-friends-outing-for-our-brother-kelvin/</link>
+      <pubDate>Sun, 11 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/with-friends-outing-for-our-brother-kelvin/</guid>
+      <description>It was on the Saturday 14, October in 2017, when my parents and my young brother Daniel Joined Dr.</description>
+    </item>
+    
+    <item>
+      <title>Maisha na tumaini letu: mambo saba</title>
+      <link>/post/maisha-na-tumaini-letu-mambo-saba/</link>
+      <pubDate>Fri, 09 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/maisha-na-tumaini-letu-mambo-saba/</guid>
+      <description>Nikukaribishe tena mpendwa wangu, wewe uliyetutembelea katika ukurasa wetu wa awali tuliokuwa tukizungumzia hasa mambo makuu mawili.</description>
+    </item>
+    
+  </channel>
+</rss>
