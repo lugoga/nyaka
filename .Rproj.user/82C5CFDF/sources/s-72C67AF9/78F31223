@@ -5,14 +5,14 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "0",
+    "hash" : "1056235763",
     "id" : "78F31223",
-    "lastKnownWriteTime" : 1565537781,
-    "last_content_update" : 1565537781086,
+    "lastKnownWriteTime" : 1565585537,
+    "last_content_update" : 1565585537253,
     "path" : "E:/blogs/nyaka/config.toml",
     "project_path" : "config.toml",
     "properties" : {
-        "cursorPosition" : "2,20",
+        "cursorPosition" : "0,37",
         "scrollLine" : "0"
     },
     "read_only" : false,

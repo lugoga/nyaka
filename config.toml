@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "https://nyaka.netlify.com/"
 languageCode = "en-us"
 title = "Grace Semba"
 theme = "restaurant-hugo"
@@ -15,7 +15,7 @@ summaryLength = "7"
     weight = 1
 
     [[menu.nav]]
-    name = "About Us"
+    name = "About me"
     URL = "about-us"
     weight = 2
 
@@ -35,9 +35,9 @@ summaryLength = "7"
     #weight = 5
 
     [[menu.nav]]
-    name = "Contact Us"
+    name = "Contact me"
     URL = "contact-us"
-    weight = 6
+    weight = 4
 
 
 
@@ -148,7 +148,7 @@ enable = true
 contactInfoTitle = "CONTACT <span>INFO</span> "
 blogTitle = "LATEST <span>BLOG POSTS</span>"
 galleryTitle = "PHOTO <span>STREAM</span>"
-socialTitle = "Follow <span>US</span>"
+socialTitle = "Follow <span>Me</span>"
 
 [[params.footer.contactItem]]
 title="Telephone"
@@ -196,7 +196,7 @@ Text = "edgr@2019 - All Rights Reserved.Design and Developed By Masumbuko Semba"
 #blog 
 [params.blog]
 enable = true
-title = "Latest <span>From</span> the <span>Blog</span>"
+title = "My Latest <span>Blog</span> Posts"
 
 
 
