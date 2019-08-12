@@ -175,7 +175,7 @@ icon = "twitter"
 link = ""
 
 [[params.footer.socialLink]]
-icon = "dribbble"
+icon = "github"
 link = ""
 
 [[params.footer.socialLink]]

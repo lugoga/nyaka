@@ -8,8 +8,7 @@ categories: []
 tags: []
 ---
 
-
-Nikukaribishe tena mpendwa wangu, wewe uliyetutembelea katika ukurasa wetu wa [awali](https://jlm.netlify.com/post/imani-zetu-nzuri-na-ukweli-unaotuhusu/) tuliokuwa tukizungumzia hasa mambo makuu mawili. Kwanza kabisa tulizungumza kwa kupitia kitabu cha *Luka 1:1--4*. Katika sura hiyo na katika mistari minne tuliyoitumia, kuna mambo takribani saba muhimu sana ambayo katika ukurasa wetu wa kwanza hatukuyaeleza yote. Na mambo hayo saba yote ndiyo yaliyobeba maudhui ya ukura wetu. <br></br>
+Mwanadamu na tumaini lake hapa duniani linategemea sana na mtazamo wake. Nikukaribishe tena mpendwa wangu, wewe uliyetutembelea katika ukurasa wetu wa [awali](https://jlm.netlify.com/post/imani-zetu-nzuri-na-ukweli-unaotuhusu/) tuliokuwa tukizungumzia hasa mambo makuu mawili. Kwanza kabisa tulizungumza kwa kupitia kitabu cha *Luka 1:1--4*. Katika sura hiyo na katika mistari minne tuliyoitumia, kuna mambo takribani saba muhimu sana ambayo katika ukurasa wetu wa kwanza hatukuyaeleza yote. Na mambo hayo saba yote ndiyo yaliyobeba maudhui ya ukura wetu. <br></br>
 
 Lakini pia nitumie fursa hii kukukaribisha wewe ambae ni mara yako ya kwanza kututembelea leo, wote mbarikiwe. Na pengine si vibaya ikiwa utamualika ndugu mwingine, na kwa kazi yako hiyo waweza kusababisha familia mpya itakayobeba matumaini mema ya vizazi vyote, karibu sana. Bila kupoteza muda ningalipenda sasa kuyaainisha yale mambo saba. 
 

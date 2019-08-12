@@ -5,15 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "1056235763",
+    "hash" : "3981586630",
     "id" : "78F31223",
-    "lastKnownWriteTime" : 1565585537,
-    "last_content_update" : 1565585537253,
+    "lastKnownWriteTime" : 1565586799,
+    "last_content_update" : 1565586799908,
     "path" : "E:/blogs/nyaka/config.toml",
     "project_path" : "config.toml",
     "properties" : {
-        "cursorPosition" : "0,37",
-        "scrollLine" : "0"
+        "cursorPosition" : "177,14",
+        "scrollLine" : "164"
     },
     "read_only" : false,
     "read_only_alternatives" : [
