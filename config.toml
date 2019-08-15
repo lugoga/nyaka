@@ -4,7 +4,7 @@ title = "Grace Semba"
 theme = "restaurant-hugo"
 summaryLength = "7"
 
-
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 # Menu
 [menu]
@@ -83,7 +83,7 @@ img = "images/slider/slider-img-33.jpg"
 [params.about]
 enable = true
 title= "My names is <span> Grace Semba </span>, a standard four student at Joyland School"
-bgImage = "images/nyaka_posed.jpg"
+bgImage = "images/nyaka_dani_ethan.jpg"
 description= "In my family I am the first born with two brothers, Daniel and Ethan. Daniel is four years old and is in the kindergatten at Joyland School. The last born in our family is baby Ethan born on 20 May 2019. Being a girl and a student, I am taking a full responsibility of my home affairs while keeping my learning and leading for the future intact. Before I come to school, I tend to"
 
 #food Menu
@@ -136,9 +136,9 @@ description= "In my family I am the first born with two brothers, Daniel and Eth
 
 [params.contact]
 enable = true
-title= "our <span> Contact Us </span>"
+#title= "our <span> Contact Us </span>"
 subtitle= "SIGN UP FOR EMAIL ALERTS"
-description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod"
+description = "You can simply sign up by filling the form if you are interested receiving alerts when a new post is online"
 
 
 #Footer 
@@ -188,7 +188,7 @@ link = ""
 #Footer Copyright Text
 [params.footerCopyright]
 enable = true
-Text = "edgr@2019 - All Rights Reserved.Design and Developed By Masumbuko Semba"
+Text = "&copy2019 - All Rights Reserved.Design and Developed By Masumbuko Semba"
 
 
 
