@@ -17,16 +17,16 @@ Unfortunate there is no direct *daladala* from home to school. Therefore, I had 
 
 Once I got into the bus, I took us about 30 minutes from Dege to *Mji mwema*---a bus stop where I dropped and took another bus, that also took about 20 minutes and drop off at a bus stop near the school called *Nyumba Ya Njano*. Then walk to School a distance of about half a kilometer. <br></br>
 
-I arrived at school around quarter to eight. The class run from 8:00 `A.M` to 12:30 `P.M`. We then went for lunch and departed back home. I rush to the main Road and got a *daladala*. I got into the bus that goes to **Kigamboni Ferry** and dropped at *Mji Mwemba* and connected to another bus that was going either *Mwembe Mdogo* or *Cheka* and dropped at *Nguzo Mbili*. Because of the few passengers during the mid day, I spent almost two and a half hours from *Nyumba ya Njano* to *Nguzo Mbili*.The online map below show the main bus stops. Click on the symbol on the map to identify the bus stop. <br></br>
+I arrived at school around quarter to eight. The class run from 8:00 `A.M` to 12:30 `P.M`. We then went for lunch and departed back home. I rush to the main Road and got a *daladala*. I got into the bus that goes to **Kigamboni Ferry** and dropped at *Mji Mwemba* and connected to another bus that was going either *Mwembe Mdogo* or *Cheka* and dropped at *Nguzo Mbili*. Because of the few passengers during the mid day, I spent almost two and a half hours from *Nyumba ya Njano* to *Nguzo Mbili*.The online map below show the main bus stops. Click the symbol on the map to and the name of bus stop will popup. <br></br>
 
 ```{r, include=FALSE, fig.cap="Bus stop"}
 require(magrittr)
-bus.stops = data.frame(lon = c(39.47638,39.47664,39.47608,39.47635   ),
-                       lat = c(-6.956765, -6.957045,-6.957304, -6.956757),
+bus.stops = data.frame(lon = c(39.465114,39.445151,39.355443,39.333255   ),
+                       lat = c(-6.941757, -6.905261,-6.850445, -6.938208),
                        name = c("Cheka", "Nguzo Mbili","Mji Mwema", "Nyumba ya Njano"))
 
  # bus.stops %>% sf::st_as_sf(coords = c("lon", "lat")) %>% sf::st_set_crs(4326) %>% mapview::mapview()
- 
+
 ```
 
 ```{r, echo=FALSE}
@@ -35,3 +35,5 @@ bus.stops %>% leaflet::leaflet() %>%
   leaflet::addMarkers(lng = ~lon, lat = ~lat, popup = ~name)
 ```
 
+<br></br>
+That is my story on how I spend three weeks of going to school with a *<u>daladala</u>* during a summer holiday of June 2019. The next post I share with you the adventure I had for othe other two weeks before the school opened on July 01, 2019. Thank you for hanging around this post and hope to see you come again for more stories. Bye and be blessed!
