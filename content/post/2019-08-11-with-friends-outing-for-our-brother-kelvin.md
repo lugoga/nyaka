@@ -2,7 +2,6 @@
 title: 'With Friends: Outing for our brother Kelvin'
 author: Grace Semba
 date: '2019-08-11'
-image: images/photo/summer.jpg
 image: images/photo/friends.jpg
 slug: with-friends-outing-for-our-brother-kelvin
 categories: []
